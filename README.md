@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm salinda hulangamuwa</h1>
 <h3 align="center">Bsc. Computer engineering Undergraduate Student,Faculty of engineering at University of Jaffna</h3>
 
-<p align="left"> <img src=" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salindahulangamuwa&label=Profile%20views&color=0e75b6&style=flat" alt="salindahulangamuwa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salindahulangamuwa" alt="salindahulangamuwa" /></a> </p>
 
